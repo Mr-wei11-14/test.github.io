@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="556e3e6f-e652-4911-8b33-44cd3a9b6e9a" name="Default Changelist" comment="new" />
+    <list default="true" id="556e3e6f-e652-4911-8b33-44cd3a9b6e9a" name="Default Changelist" comment="new">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606179862674</updated>
-      <workItem from="1606179864815" duration="1266000" />
+      <workItem from="1606179864815" duration="2607000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1606182410276</created>
@@ -55,29 +58,68 @@
       <option name="project" value="LOCAL" />
       <updated>1606182410276</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new">
+      <created>1606182528785</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606182528785</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new">
+      <created>1606182602036</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606182602036</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new">
+      <created>1606183413109</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606183413109</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new" />
     <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="372" y="2" key="CommitChangelistDialog2" timestamp="1606182527967">
+    <state x="372" y="2" key="CommitChangelistDialog2" timestamp="1606183412307">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="2" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606182527967" />
+    <state x="372" y="2" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606183412307" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1606182595365">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1606182595365" />
-    <state x="640" y="134" key="RollbackChangesDialog" timestamp="1606182593895">
+    <state x="618" y="326" key="Github.Dialog.Accounts.Choose" timestamp="1606182804092">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="640" y="134" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1606182593895" />
+    <state x="618" y="326" key="Github.Dialog.Accounts.Choose/0.0.1536.824@0.0.1536.824" timestamp="1606182804092" />
+    <state x="640" y="134" key="RollbackChangesDialog" timestamp="1606183791229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="640" y="134" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1606183791229" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606183423487">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606183423487" />
     <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606182571612">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
